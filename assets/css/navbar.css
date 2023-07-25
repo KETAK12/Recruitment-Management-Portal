@@ -1,0 +1,5 @@
+.navbar.navbar-dark.navbar-expand-md.sticky-top.text-center {
+  position: sticky-top;
+  z-index: 10;
+}
+

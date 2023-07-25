@@ -1,0 +1,27 @@
+.btn {
+  text-decoration: none;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  border-color: white;
+  border-width: 1.5px;
+  border-radius: 25px;
+  background-color: transparent;
+  font-size: large;
+}
+
+body {
+  background-image: repeating-linear-gradient(to left, #9b59b6, #3498db);
+}
+
+.formtext {
+  color: white;
+}
+
+.form-horizontal {
+  margin-top: 30px;
+}
+
+#registerForm {
+  background: rgba(52, 58, 64, 0.6);
+}
+
